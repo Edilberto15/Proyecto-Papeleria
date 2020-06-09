@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">layonet</string>
+    <string name="usuario">usuario</string>
+    <string name="contraseña">contraseña</string>
+    <string name="button">INICIAR</string>
+    <string name="button2">NOTAS</string>
+    <string name="button3">VENTAS</string>
+</resources>
